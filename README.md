@@ -44,7 +44,6 @@ Lembrando que:
 Caso o banco de dados for hospedado na própria maquina aonde está hospedado o bot, deixe 127.0.0.1, e o usuário como padrão root.
 Caso tenha senha para acessar o banco de dados, insira também.
 
-bash
 
   "prefix": "!", // Prefixo
   "token": "",  // Token Bot
